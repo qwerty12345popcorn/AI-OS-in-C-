@@ -6,3 +6,4 @@ How to run it:
 2. Select next: Create classic desktop applications
 3. Download my file Then Open my file or click on Game.exe
 4. Run the .exe file and enjoy.
+5. 
